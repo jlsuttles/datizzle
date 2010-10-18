@@ -1,6 +1,10 @@
 = datizzle
 
-Description goes here.
+Usage:
+
+dt = DateTime.now
+
+puts dt.format(%weekday%, %month% %month.day%, %year% %hour%:%minute% %ampm%)
 
 == Note on Patches/Pull Requests
  
